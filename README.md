@@ -1,4 +1,4 @@
-# Java Sheet Cheat
+# Java Cheat Sheet
 
 ## Java 8
 
